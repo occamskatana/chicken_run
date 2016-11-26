@@ -32,7 +32,7 @@ function instantiateAssets(){
 }
 
 function step(){
-	
+
 }
 
 $(document).ready(function(){
